@@ -1,6 +1,6 @@
 
 ------- PANDA
-	Panda is a folder of practice for HTML xD
+	html is a folder of practice for HTML xD
 
 ------- EJERCICIO 1
 	1.0) Se realiza la carga de 10 valores enteros por teclado. Se desea conocer: FOR
